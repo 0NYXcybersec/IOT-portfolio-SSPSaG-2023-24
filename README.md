@@ -9,8 +9,8 @@ The code uses an ultrasonic sensor to measure the distance of an object in front
 IN PROGRESS
 ```
 ### P.W.H mk.1
-```python
-Plant watering hub
+```
+Plant watering hub mark.1
 ```
 This code is designed to control two LEDs based on the water level in the soil detected by a soil sensor. The code is written for an Arduino board, which can interface with the sensor and LEDs.
 
