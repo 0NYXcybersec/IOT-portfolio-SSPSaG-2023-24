@@ -1,4 +1,4 @@
-# Maker-portfolio-SSPSaG-2023-24
+# IOT-portfolio-SSPSaG-2023-24
 ## Introduction
 My arduino projects portfolio for the SSPŠaG admission process of the year 2023/24.
 ## Projects
