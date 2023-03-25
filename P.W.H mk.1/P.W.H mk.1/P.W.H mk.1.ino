@@ -7,6 +7,6 @@ void setup() {
 void loop() {
   int water = digitalRead(8);
   digitalWrite(9, water == LOW ? HIGH : LOW);
-  digitalWrite(10, water == HIGH ? HIGH : LOW);
+  digitalWrite(10, water == LOW ? HIGH : HIGH);
   delay(250);
 }
