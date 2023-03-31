@@ -19,4 +19,6 @@ When the soil sensor detects a full water level, the code turns on the green LED
 ```
 Plant watering hub mark.2
 ```
-Updated version of P.W.H mk.1 which controls a water pump. The water pump is turned on with digital input from the soil sensor. The water pump is turned on until the digital input from soil sensor is cut off.
+The P.W.H mk.2 is an electronic control system designed to manage and regulate the operation of a water pump, primarily in household applications. This system is an updated version of the original P.W.H mk.1, featuring useful features and functionalities that make it more efficient and reliable.
+
+The key function of the P.W.H mk.2 is to control the water pump automatically. This is achieved by utilizing digital input from the soil sensor to detect when the plants or crops require watering. When the soil sensor detects that the moisture level in the soil has dropped below a certain threshold, it sends a signal to the board to activate the water pump. The board then sends a signal to the water pump to start pumping water from a designated source such as a well, a borehole or a storage tank, and directs it to the irrigation system.
