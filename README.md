@@ -15,3 +15,8 @@ Plant watering hub mark.1
 This code is designed to control two LEDs based on the water level in the soil detected by a soil sensor. The code is written for an Arduino board, which can interface with the sensor and LEDs.
 
 When the soil sensor detects a full water level, the code turns on the green LED and turns off the red LED. When the water level is low, the code turns on the red LED and turns off the green LED. The code repeats this process indefinitely, with a delay of 250 milliseconds between each reading of the sensor.
+### P.W.H mk.2
+```
+Plant watering hub mark.2
+```
+Updated version of P.W.H mk.1 which controls a water pump. The water pump is turned on with digital input from the soil sensor. The water pump is turned on until the digital input from soil sensor is cut off.
